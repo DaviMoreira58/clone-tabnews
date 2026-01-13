@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Projeto de implementação do https://www.tabnews.com.br para aprendizado",
   "main": "index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "lint:check": "prettier --check .",
