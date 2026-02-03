@@ -9,7 +9,7 @@ export default function Home() {
     bio: "Criando soluções escaláveis.",
     photo: "https://via.placeholder.com/150", 
     links: [
-        { title: "Portfólio", url: "https://davicode.com.b", icon: "fa-solid fa-briefcase", color: "#38bdf8" },
+        { title: "Portfólio", url: "https://davicode.com.br", icon: "fa-solid fa-briefcase", color: "#38bdf8" },
         { title: "LinkedIn", url: "https://www.linkedin.com/in/davi-moreira-11b639196/", icon: "fa-brands fa-linkedin", color: "#ffffff" },
         { title: "GitHub", url: "https://github.com/DaviMoreira58", icon: "fa-brands fa-github", color: "#ffffff" },
     ]
